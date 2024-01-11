@@ -9,6 +9,7 @@
 - 👧 Pronouns: She/her
 - ⚡ Fun fact: If I put it here, I would be arrested :trollface:
 
-<br/>
-
+<br>
 ## Projects that make me feel proud
+
+<br>
