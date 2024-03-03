@@ -8,3 +8,6 @@
 - 📫 How to reach me: DM me on Linkedin or Email! 
 - 👧 Pronouns: She/her
 - ⚡ Fun fact: If I put it here, I would be arrested :trollface:
+
+- 
+![land-content](https://github.com/ArtielSry/ArtielSry/assets/113340763/6288f98c-b9e5-473f-a889-a84df021286d)
