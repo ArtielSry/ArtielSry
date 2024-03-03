@@ -1,4 +1,4 @@
-![land-content](https://github.com/ArtielSry/ArtielSry/assets/113340763/6288f98c-b9e5-473f-a889-a84df021286d)
+![land-content](https://github.com/ArtielSry/ArtielSry/assets/113340763/0e96aa43-ba0e-424e-9f12-fefb6579fb6a)
 
 ### Hi there 👋
 
