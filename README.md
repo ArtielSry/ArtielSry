@@ -1,3 +1,5 @@
+![land-content](https://github.com/ArtielSry/ArtielSry/assets/113340763/6288f98c-b9e5-473f-a889-a84df021286d)
+
 ### Hi there 👋
 
 - 🔭 I'm Junior Frontend developer and Android developer.
@@ -10,4 +12,3 @@
 - ⚡ Fun fact: If I put it here, I would be arrested :trollface:
 
 - 
-![land-content](https://github.com/ArtielSry/ArtielSry/assets/113340763/6288f98c-b9e5-473f-a889-a84df021286d)
