@@ -1,4 +1,4 @@
-<img width="1630" height="485" alt="Screenshot 2025-08-31 at 11 19 29" src="https://github.com/user-attachments/assets/aec2efd8-7bce-482f-af03-6b3c561efe17" />
+<img width="1630" height="485" alt="Soraya Artiel Web Designer and Developer" src="https://github.com/user-attachments/assets/aec2efd8-7bce-482f-af03-6b3c561efe17" />
 
 ### Hi there 👋 !
 
