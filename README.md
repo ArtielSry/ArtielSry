@@ -1,5 +1,3 @@
-<img width="1630" height="485" alt="Soraya Artiel Web Designer and Developer" src="https://github.com/user-attachments/assets/aec2efd8-7bce-482f-af03-6b3c561efe17" />
-
 ### Hi there 👋 !
 
 - 🔭 I'm Web Designer and Developer
