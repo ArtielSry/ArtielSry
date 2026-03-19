@@ -1,8 +1,14 @@
-### Hi there 👋 !
+Hi there, I'm Soraya! 👋
+Web Designer & Developer 
 
-- 🔭 I'm Web Designer and Developer
-- 🧠 I’m currently improving my skills as designer and learning webflow
-- 🌍 I am looking to collaborate in volunteer projects for the environment🌞 and other social causes🧑‍🤝‍🧑 So if you have any project don't hesitate to contact me! 
-- 🤔 I’m looking for help with leveling up as a creative developer / web designer
-- 📫 How to reach me: DM me on Linkedin or Email
+I bridge the gap between aesthetic design and functional code. Currently, I'm deep-diving into Webflow and Creative Development to craft digital experiences that don't just work—they inspire.
+
+🔭 Currently: Designing and developing high-performance websites.
+
+🧠 Skill-up: Mastering visual storytelling through Webflow and interaction design.
+
+🌍 Tech for Good: I’m deeply committed to environmental 🌞 and social causes 🧑‍🤝‍🧑. If you're building a project that makes a positive impact, I’d love to contribute my skills.
+
+Let's build something meaningful:
+📫 [LinkedIn](https://www.linkedin.com/in/soraya-artiel-a59384200/) 
 
